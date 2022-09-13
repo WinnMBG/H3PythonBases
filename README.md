@@ -1,4 +1,4 @@
-#README
+# README
 
 Ceci est un premier readme afin de valider une première compétence
 
